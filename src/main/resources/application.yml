@@ -1,4 +1,4 @@
 xiaobai:
-  port:8888
+  port: 8888
   context: book
 update: xiaohei
